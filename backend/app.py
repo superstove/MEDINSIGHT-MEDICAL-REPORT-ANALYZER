@@ -7,7 +7,6 @@ import logging
 import google.generativeai as genai
 import pandas as pd
 import docx
-
 import pytesseract
 import cv2
 import fitz  # PyMuPDF
