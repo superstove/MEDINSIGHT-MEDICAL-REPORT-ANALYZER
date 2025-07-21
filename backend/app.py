@@ -13,7 +13,7 @@ import fitz  # PyMuPDF
 import pdfplumber
 import pathlib
 import json
-import r
+import re
 import numpy as np
 from io import BytesIO
 from PIL import Image
